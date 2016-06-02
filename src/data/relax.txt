@@ -1,0 +1,6 @@
+wycieczka;dizu;hiszpania;2000;tak;tak
+innahiszpania;maly;lloret;1000;nie;nie
+name;name;9;name;y;n
+yyy;yyyy;1;yy;y;n
+ddddddddd;dddddddddd;ddddddddddd;dddddddddd;dddddd;dddddddd
+1;1;11;1;1;1

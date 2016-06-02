@@ -1,0 +1,5 @@
+wlochy;hotel;wlochy;2322;zwiedzanie katedry
+pol;maly;polska;1000;plywanie po morzu;cos tam
+sdf;dsf;sdf;sdf;sfd;4name;hotel;place;1000;kolejka gorska, londyn, wieza
+dd;dd;dd;dd;dd
+asd;asd;asd;asd;asd
